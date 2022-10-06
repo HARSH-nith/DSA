@@ -1,5 +1,5 @@
 # DSA
-This repo contains top DSA question at one place. Speciliased in C++ language.Topics include 
+This repo contains top DSA question at one place. The question are hand picked and selected form a large question pool avaliable.The solution are speciliased for C++ language.Topics include 
 - Array
 - Matix
 - String
@@ -12,9 +12,3 @@ This repo contains top DSA question at one place. Speciliased in C++ language.To
 - Heap
 - Graph
 - Dynamic Prgramming
-
-
-
-
-C++ algorithm in one place, This is dedicated repository for maintaining data structures and algorithm code. 
-This repository will be helpful for students preparing for internships or campus placements. Topics

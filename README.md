@@ -8,7 +8,7 @@ This repo contains top DSA question at one place. The question are hand picked a
 - Binary Trees and Binary Search Trees
 - Greedy 
 - Back Tracking
-- Stacks& Queus
+- Stacks & Queus
 - Heap
 - Graph
 - Dynamic Prgramming

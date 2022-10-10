@@ -1,3 +1,7 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+
 class Solution {
 public:
     int minDistance(string word1, string word2) {
@@ -15,3 +19,11 @@ public:
         return dp[n][m];
     }
 };
+
+int main(){
+    string word1,word2;
+    cin>>word1>>word2;
+    Solution s;
+    cout<<s.minDistance(word1,word2)<<'\n';
+}
+

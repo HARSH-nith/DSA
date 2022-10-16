@@ -15,4 +15,9 @@
 *List of Questions Added*
 
 1. fibonacci seq
-1. ways to nth step
+2. ways to nth step
+3. edit distance
+4. Increasing Sequence
+5. Best Time to Buy and Sell Stock II
+
+

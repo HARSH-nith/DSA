@@ -1,4 +1,6 @@
 #include <bits/stdc++.h>
+#include<math.h>
+#include<iostream>
 using namespace std;
  
 /* lis() returns the length of the longest

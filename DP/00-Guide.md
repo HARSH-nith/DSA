@@ -18,3 +18,4 @@
 1. ways to nth step
 1. longest common subsequence ( to be added )
 1. Factorial
+1. Maximum sum of non adjacent elements

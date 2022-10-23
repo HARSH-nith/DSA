@@ -16,3 +16,5 @@
 
 1. fibonacci seq
 1. ways to nth step
+1. longest common subsequence ( to be added )
+1. Factorial
